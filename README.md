@@ -1,3 +1,3 @@
 # spintroui
 dev-bhupeshpatel
-Trigger first pipeline!!
+Trigger first spinnaker pipeline!!
