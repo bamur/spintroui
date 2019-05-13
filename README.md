@@ -1,3 +1,3 @@
 # spintroui
 
-dev-jhd add deploy-manifest
+dev-jhd add deploy-manifest add a VM deploy
