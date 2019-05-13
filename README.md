@@ -10,3 +10,4 @@ Change to trigger bake & deploy
 
 foo
 bar
+baz
