@@ -2,4 +2,4 @@
 
 Hi petdoan
 Add deploy manifest
-Exercise 2
+Exercise 2 test
