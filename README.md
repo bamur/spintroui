@@ -1,3 +1,3 @@
 # spintroui
 
-dev-jhdx3
+dev-jhd add deploy-manifest
