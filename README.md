@@ -1,3 +1,3 @@
 # spintroui
 
-Hi there petdoan
+Hi petdoan
