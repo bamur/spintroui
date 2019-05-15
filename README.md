@@ -1,3 +1,3 @@
 # spintroui
 
-rhing (slide 37)
+rhing (slide 48)
