@@ -1,3 +1,3 @@
 # spintroui
 
-OK
+deploy to ngnix
