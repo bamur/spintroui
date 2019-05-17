@@ -1,2 +1,2 @@
 # spintroui
-test one 1
+test one 2
