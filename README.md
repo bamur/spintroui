@@ -1,3 +1,3 @@
 # spintroui
 
-Kicking off a K8s deployment
+Kicking off a K8s and ec2 deployments.
