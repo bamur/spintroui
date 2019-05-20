@@ -1,2 +1,3 @@
 # spintroui
 
+Update to readme
