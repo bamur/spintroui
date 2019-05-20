@@ -1,3 +1,3 @@
 karateAMD
 
-This is a test.
+Testing deploy.
